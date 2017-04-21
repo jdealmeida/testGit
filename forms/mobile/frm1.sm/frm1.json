@@ -26,7 +26,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flx1"
+        "flx1",
+        "btn1"
     ],
     "containerweight": 100,
     "currentLocale": "default",
