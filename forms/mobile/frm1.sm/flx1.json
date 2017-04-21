@@ -34,7 +34,9 @@
     },
     "allboxes": [],
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "Button09ddc2e4d66bd46"
+    ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
